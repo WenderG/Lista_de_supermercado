@@ -1,0 +1,61 @@
+.main {
+    background-image: url('../img/mercado.jpeg');
+    background-size: cover;
+    height: 90vh;
+    padding-top: 3rem;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: auto;
+    width: 83.33%;
+    max-width: 700px;
+}
+
+h1 {
+    text-align: center;
+    padding: 1rem;
+}
+
+.lista {
+    width: 200px;
+    border: 2px solid #ff0000;
+    border-radius: 15px;
+    margin: auto;
+    overflow-y: scroll;
+    height: 50vh;    
+}
+
+p {
+    margin: 1rem;
+}
+
+form {
+    margin-top: 1rem;
+}
+
+.formulario {
+    width: 200px;
+    margin: auto;
+}
+
+input {
+    width: 150px;
+    margin-bottom: 1rem;
+}
+
+.botao {
+    text-align: center;
+}
+
+input#submit {
+    width: 100px;
+}
+
+/* @media screen and (min-width: 700px) {
+    .formulario {
+        width: 200px;
+        margin-left: 40%;
+    }
+} */
