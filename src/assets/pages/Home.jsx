@@ -5,7 +5,7 @@ function Home() {
         <section className="main">
             <div className='container'>
                 <h1>Lista de Compras</h1>
-                <div className='lista'>
+                <div className='lista' id='lista'>
                    <p>Lista de compras vazia.</p>
                 </div>
 
