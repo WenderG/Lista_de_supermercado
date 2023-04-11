@@ -38,6 +38,7 @@ form {
 .formulario {
     width: 200px;
     margin: auto;
+    text-align: center;
 }
 
 input {
@@ -62,6 +63,13 @@ li {
     .lista {
         margin: auto;
         width: 400px;
-        overflow: hidden;
+    }
+
+    .formulario {
+        text-align: left;
+    }
+
+    input {
+        width: 200px;
     }
 }
